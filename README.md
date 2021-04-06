@@ -25,15 +25,15 @@ Python模块：openpyxl
 ## 配置：
 ### 1、下载各个模块使用到的开源工具：
 
-Zoomeye获取IP、端口、协议（无需下载，需要注册获取APIkey）Zoomeye:[https://www.zoomeye.org/](https://www.zoomeye.org/)
+Zoomeye获取IP、端口、协议（无需下载，需要注册获取APIkey）:[https://www.zoomeye.org/](https://www.zoomeye.org/)
 
-ffuf目录扫描（目录字典也需要准备）：ffuf:[https://github.com/ffuf/ffuf](https://github.com/ffuf/ffuf)
+ffuf目录扫描（目录字典也需要准备）：[https://github.com/ffuf/ffuf](https://github.com/ffuf/ffuf)
 
-EHole指纹识别、title识别：EHole:[https://github.com/EdgeSecurityTeam/EHole](https://github.com/EdgeSecurityTeam/EHole)
+EHole指纹识别、title识别：[https://github.com/EdgeSecurityTeam/EHole](https://github.com/EdgeSecurityTeam/EHole)
 
-Xray被动扫描：Xray:[https://github.com/chaitin/xray](https://github.com/chaitin/xray)
+Xray被动扫描：[https://github.com/chaitin/xray](https://github.com/chaitin/xray)
 
-Rad爬虫：Rad:[https://github.com/chaitin/rad](https://github.com/chaitin/rad)
+Rad爬虫：[https://github.com/chaitin/rad](https://github.com/chaitin/rad)
 
 ### 2、zfre_scan.config配置文件写入信息：
 
