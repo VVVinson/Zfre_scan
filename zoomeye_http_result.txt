@@ -1,0 +1,2 @@
+https://x.x.x.x/api
+http://x.x.x.x:8080/api
