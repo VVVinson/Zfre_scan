@@ -3,8 +3,8 @@ HVV信息收集，优秀开源工具的整合，通过Zoomeye+ffuf+EHole+Xray+Ra
 
 分为三个模块：  
 1、Zoomeye.py：调用zoomeye接口获取数据  
-2、ffuf.py：调用ffuf对url列表进行进行目录扫描  
-3、XraEh.py：调用xray与rad对url列表进行进行爬虫与被动扫描  
+2、ffuf.py：调用ffuf对url列表进行目录扫描  
+3、XraEh.py：调用xray与rad对url列表进行爬虫与被动扫描  
 
 
  - Input：Zoomeye搜索的关键字
