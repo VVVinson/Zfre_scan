@@ -86,3 +86,6 @@ zoomeye_http_result = ffuf、rad、xray、Ehole读取的url文件路径（文件
 输出：
 └── zoomeye_http_result.txt       #ffuf.py模块执行后会在后面新增扫描到的url
 ```
+## 注：
+- 每次使用前需要自行重命名或者移走Zfresult目录下的文件，否则会覆盖原有结果，或者Xray无法监听
+- Xray目前需要手动关掉监听进程
