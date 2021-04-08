@@ -1,5 +1,5 @@
 # Zfre_scan
-HVV信息收集，优秀开源工具的整合，通过Zoomeye+ffuf+EHole+Xray+Rad进行信息收集  
+HVV信息收集，优秀开源工具的整合，通过Zoomeye+ffuf+EHole+Xray+Rad进行自动化信息收集与结果输出
 
 分为三个模块：  
 1、Zoomeye.py：调用zoomeye接口获取数据  
