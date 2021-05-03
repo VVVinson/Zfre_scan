@@ -91,7 +91,8 @@ zoomeye_http_result = ffuf、rad、xray、Ehole读取的url文件路径（文件
 - Xray目前需要手动关掉监听进程
 
 20210503更新：
-1、dork.txt可直接输入搜索语法,如：x.x.x.x +app:"Apache httpd"
+
+1、dork.txt可直接输入搜索语法，例如：x.x.x.x +app:"Apache httpd"
 
 2、添加zoomeye API超时重传机制
 
